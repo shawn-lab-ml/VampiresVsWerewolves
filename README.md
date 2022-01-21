@@ -9,7 +9,7 @@ Install a [Go toolchain](https://go.dev) (version >= 1.11 to support go modules)
 
 ### Go Server
 
-All instructions can be found in the following [link](https://github.com/langorou/twilight).
+All instructions can be found in the following [link](https://github.com/langorou/twilight). \n
 All credits should be given to the github linked above.
 
 To be noted that there are some issues/bugs but overall works well for testing. 
@@ -50,9 +50,9 @@ Run the code by executing the following line of code:
 python main.py NAME HOST PORT
 ```
 
-PORT should be 5555
-HOST should be localhost
-NAME should be the name of your AI
+- PORT should be 5555
+- HOST should be localhost
+- NAME should be the name of your AI
 
 Please note that 2 AIs should be launched for the server to run so either run you own AI and confront it with ours or run the AI twice.
 
