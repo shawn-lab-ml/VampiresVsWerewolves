@@ -9,7 +9,7 @@ Install a [Go toolchain](https://go.dev) (version >= 1.11 to support go modules)
 
 ### Go Server
 
-All instructions can be found in the following [link](https://github.com/langorou/twilight). \n
+All instructions can be found in the following [link](https://github.com/langorou/twilight).
 All credits should be given to the github linked above.
 
 To be noted that there are some issues/bugs but overall works well for testing. 
